@@ -133,7 +133,3 @@ See the individual README files for detailed instructions:
 Task1-SARSA-Q-Learning/README.md
 Task2-DQN-CarRacing/README.md
 ```
-
-## About
-
-This repository demonstrates practical reinforcement learning techniques ranging from **tabular SARSA and Q-Learning** to **Deep Q-Learning with neural networks**. It includes environment interaction, exploration and learning strategies, hyperparameter optimization, agent evaluation, experiment analysis, and visual control.
