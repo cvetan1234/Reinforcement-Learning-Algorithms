@@ -10,6 +10,8 @@ The second project applies **Deep Q-Learning (DQN)** to the **CarRacing-v3** env
 
 Together, the two tasks demonstrate the progression from tabular reinforcement learning methods to deep reinforcement learning for visual control.
 
+This project was originally developed as part of the **Reinforcement Learning** module at Ostbayerische Technische Hochschule Amberg-Weiden (OTH Amberg-Weiden).
+
 ## Projects
 
 ### Task 1 – SARSA(λ) & Q-Learning(λ) with Hyperparameter Optimization
